@@ -3,6 +3,9 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=160&section=header&text=AmnesiaCode&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20dev&descAlignY=58&descSize=18" width="100%"/>
 
 <img src="https://github.com/b1-ack/b1-ack/raw/main/yetopen.gif" width="120" />
+<div align="center">
+  I use <a href="https://os.b1ack.net">B1ackOS</a> btw
+</div>
 
 <br/>
 
@@ -29,10 +32,6 @@
 - Telegram-боты и интеграции
 - AI-агенты и tool-calling эксперименты
 - телеметрия / прикладной анализ данных
-
-<div align="center">
-<sub>I use <a href="https://os.b1ack.net">os.b1ack.net</a> btw</sub>
-</div>
 
 <br/>
 
